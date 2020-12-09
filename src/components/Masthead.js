@@ -1,6 +1,6 @@
 function MastHead() {
     return (
-    <div>A Geekout Workshop</div>     
+    <div classname="masthead">A Geekout Workshop</div>     
     );
 }
 
