@@ -1,4 +1,5 @@
 import Navbar from "../components/Navbar";
+import Masthead from "../components/Masthead";
 import Footer from "../components/Footer";
 import Donations from "../components/Donations";
 
